@@ -1,0 +1,7 @@
+Slide 1: Title — AI crop & soil monitoring (Team / Names)
+Slide 2: Problem statement
+Slide 3: Proposed solution (short)
+Slide 4: Architecture diagram (image)
+Slide 5: Demo screenshots (2 images)
+Slide 6: Results & accuracy
+Slide 7: Future scope
