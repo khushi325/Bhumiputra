@@ -1,4 +1,4 @@
-SIH — Member3 One-Click Pack
+ One-Click Pack
 ---------------------------
 Follow these steps (Windows or Linux/Mac):
 
